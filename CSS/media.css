@@ -1,0 +1,289 @@
+@media (max-width: 280px) {
+    .container {
+        max-width: 260px;
+        padding: 0 32px;
+    }
+
+
+    .nav {
+        display: block;
+        text-align: center;
+        margin-bottom: 70px;
+        margin: 0 50px 0 65px;
+    }
+
+    .nav_list {
+        display: block;
+        gap: 35px;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    .nav_list > li {
+        margin-bottom: 10px;
+    }
+
+    .logo-img {
+        margin-bottom: 20px;
+    }
+
+    .studio_iner_content_text {
+        padding-left: 0px;
+        text-align: center;
+        padding-top: 50px;
+    }
+    
+    .btn {
+        display: flex;
+        margin: 73px 0px 88px 0px;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 14px;
+    }
+
+    .studio_content {
+        display: block; 
+        margin: 0 auto;
+    }
+
+    .studio_title {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 33px;
+        line-height: 45px;
+        color: #FFFFFF;
+    }
+
+    .img_couch {
+        top: 45px;
+    }
+
+    .img_couch_1 {
+        top: -235px;
+        left: 8px;
+    }
+
+    .armchair {
+        padding-top: 110px;
+    }
+
+    .armchair_iner_content {
+        display: block;
+        margin-left: 15px;
+        text-align: center;
+    }
+
+    .armchai_btn {
+        margin: 33px 0 100px 0;
+    }
+
+    .armchair-list {
+        display: block;
+        max-width: 100%;
+        text-align: center;
+        margin: 0;
+    }
+
+    .choose_wraper {
+        display: block; 
+        text-align: center;
+        padding-left: 15px;
+    }
+
+    .choose_text {
+       margin-right: 0;
+    }
+
+    .choose_image {
+        top: -140px;
+    }
+
+    .choose_image_2 {
+        top: 75px;
+        left: -44px;
+    }
+
+    .interior {
+        padding-top: 0;
+    }
+
+    .armchair_title {
+        font-size: 23px;
+        line-height: 36px;
+    }
+
+    .interior_wraper {
+        text-align: center;
+    }
+
+    .interior_content > p {
+        margin-right: 0; 
+    }
+
+    .interior_content {
+        padding-left: 30px;
+    }
+
+    #Dotted_3 {
+        max-width: 123px;
+        top: -296px;
+        left: -37px;
+    }
+
+    #Mask_group_2 {
+        max-width: 126px;
+        top: -356px;
+        left: 46px;
+    }
+
+    #Mask_group_3 {
+        max-width: 84px;
+        top: -345px;
+        left: 15px;
+    }
+
+    #Mask_group_4 {
+        top: -514px;
+        left: 102px;
+        max-width: 53px;
+    }
+
+    #Rectangle_18 {
+        top: -491px;
+        left: 52px;
+    }
+
+    .testimonials_list {
+        display: flex;
+        gap: 42px;
+        flex-wrap: wrap;
+        text-align: center;
+        padding-left: 22px;
+    }
+    
+    .testimonials_item_1 {
+        display: flex;
+        gap: 27px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .testimonials_title {
+        margin: 77px 0px 20px 14px;
+    }
+
+    .testimonials_slider {
+        display: flex;
+        gap: 33px;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding-left: 20px;
+    }
+
+    p {
+        text-align: center;
+    }
+
+    .testimonials_Anna {
+        padding-left: 20px;
+    }
+
+    .blog_wraper {
+        display: flex;
+        gap: 30px;
+        flex-wrap: wrap;
+        padding-left: 20px;
+    }
+
+    .blog_title_1 {
+        text-align: center;
+    }
+
+    .blog_title {
+        justify-content: center;
+        flex-wrap: wrap;
+        padding-left: 20px;
+        gap: 20px;
+    }
+
+    .blog_text {
+        margin-bottom: 30px;
+    }
+
+    .blog_img_title {
+        text-align: center;
+        padding-bottom: 15px;
+    }
+
+    .newsletter_wraper {
+        display: flex;
+        flex-wrap: wrap;
+        max-width: 380px;
+    }
+
+    .newsletter_title {
+        font-size: 16px;
+    }
+    
+    .newsletter_input {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin-top: 20px;
+    }
+
+    .newsletter_bottom {
+        left: 33px;
+        top: 7px;
+    }
+
+    .newsletter_choose {
+        top: 0px;
+        left: 48px;
+    }
+
+    .Furni {
+        position: relative;
+        left: 60px;
+    }
+
+    .contacts_wraper {
+        flex-wrap: wrap;
+        padding-left: 10px;
+    }
+
+    .contacts_text_1 {
+        padding-right: 0; 
+    }
+
+    .contacts {
+        margin-top: 40px;
+    }
+
+    .contacts_list {
+        gap: 42px;
+        flex-wrap: wrap;
+    }
+
+    .contacts_list_item {
+        text-align: center;
+        gap: 5px;
+    }
+
+    .contacts_nav {
+        gap: 7px;
+        margin-top: 30px;
+        padding-left: 10px;
+    }
+
+    .footer {
+        padding-left: 10px; 
+    }
+
+    .footer_text {
+        gap: 50px;
+        flex-wrap: wrap;
+    }
+}
